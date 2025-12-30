@@ -4,7 +4,7 @@
 export default function ShowJumbo(){
     return (
       
-        <div className="flex flex-row justify-between items-center mt-40 px-50 bg-[#222831] mb-15">
+        <div className="flex flex-row justify-between items-center mt-40 px-50  mb-15">
 
 
           <div className="flex flex-col">

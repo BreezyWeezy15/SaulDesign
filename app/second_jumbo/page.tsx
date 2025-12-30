@@ -1,6 +1,6 @@
 export default function ShowSecondJumbo() {
   return (
-    <div className="flex flex-row justify-between items-center px-50 gap-50 bg-[#222831]">
+    <div className="flex flex-row justify-between items-center px-50 gap-50 mb-40">
       
 
       <div className="flex flex-col gap-5">
