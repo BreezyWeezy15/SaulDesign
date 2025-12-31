@@ -19,7 +19,7 @@ export default function ShowTopSection() {
 
         <div className="flex flex-row gap-5 text-gray-300 font-semibold text-md">
           <h4  className="cursor-pointer" onClick={ () => scrollToPage("one")}>Home</h4>
-          <h4 className="cursor-pointer" onClick={ () => scrollToPage("two")}>About Me</h4>
+          <h4 className="cursor-pointer" onClick={ () => scrollToPage("two")}>About</h4>
           <h4 className="cursor-pointer" onClick={ () => scrollToPage("three")}>Works</h4>
           <h4 className="cursor-pointer" onClick={ () => scrollToPage("four")}>Contact</h4>
         </div>
