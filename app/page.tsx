@@ -1,3 +1,4 @@
+"use client";
 import ShowTopSection from "./top_section/page";
 import ShowJumbo from "./jumbo/page";
 import ShowSecondJumbo from "./second_jumbo/page";
