@@ -1,17 +1,22 @@
+
+"use client";
+import { useTranslations } from "next-intl";
+
+
+
 export default function ShowSecondJumbo() {
+
+   const t = useTranslations();
+
   return (
     <section id="two">
       <div className="flex flex-row justify-between items-center px-50 gap-50 mb-40">
         <div className="flex flex-col gap-5">
           <h4 className="text-4xl text-white font-bold">
-            About <span className="text-[#00ADB5] font-bold text-4xl">Me</span>
+            {t("about")} <span className="text-[#00ADB5] font-bold text-4xl">{ t("me")}</span>
           </h4>
           <h4 className="text-lg text-gray-400 font-medium">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-            vulputate libero et velit interdum, ac aliquet odio mattis. Class
-            aptent taciti sociosqu ad litora torquent per conubia nostra, per
-            inceptos himenaeos. Curabitur tempus urna at turpis condimentum
-            lobortis.... Read more
+            {t("text")}
           </h4>
         </div>
 

@@ -1,0 +1,21 @@
+{
+  "home": "Inicio",
+  "about": "Acerca de",
+  "works": "Trabajos",
+  "contact": "Contacto",
+  "creative": "UI Creativa",
+  "design": "¡Diseñador!",
+  "hire": "Contrátame",
+  "download": "Descargar CV",
+  "me": "mí",
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis.... Leer más",
+  "project": "¿Tienes un proyecto en",
+  "mind": "mente?",
+  "name": "Tu nombre",
+  "email": "Tu correo electrónico",
+  "message": "Tu mensaje",
+  "sendMessage": "Enviar mensaje",
+  "fullName": "Nombre completo",
+  "fullEmailAddress": "Correo electrónico",
+  "fullMessage": "Mensaje"
+}

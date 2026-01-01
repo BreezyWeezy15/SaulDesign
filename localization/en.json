@@ -1,0 +1,21 @@
+{
+  "home": "Home",
+  "about": "About",
+  "works": "Works",
+  "contact": "Contact",
+  "creative": "Creative Ui",
+  "design": "Designer",
+  "hire": "Hire Me",
+  "download": "Download Cv",
+  "me": "Me",
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis.... Read more",
+  "project": "Got a project in",
+  "mind": "mind?",
+  "name": "Your Name",
+  "email": "Your Email",
+  "message": "Your Message",
+  "sendMessage": "Send Message",
+  "fullName": "Full Name",
+  "fullEmailAddress": "Email Address",
+  "fullMessage": "Message"
+}
