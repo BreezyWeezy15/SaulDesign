@@ -15,6 +15,7 @@ import esMessages from "../localization/es.json";
 import enMessages from "../localization/en.json";
 
 export default function Home() {
+
   const [locale, setLocale] = useState("en");
 
   const messagesMap: any = {
@@ -30,9 +31,8 @@ export default function Home() {
     >
       <div className="flex flex-col min-h-screen w-full bg-[#222831]">
         <ShowTopSection locale={locale} setLocale={setLocale} />
-
         <div className="w-full h-[0.5px] bg-gray-500"></div>
-        <ShowJumbo locale={locale} setLocale={setLocale} />
+        <ShowJumbo />
         <div className="w-full h-[0.5px] bg-gray-500 mb-16"></div>
         <ShowSecondJumbo />
         <div className="w-full h-[0.5px] bg-gray-500 mb-16"></div>
